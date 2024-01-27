@@ -1,0 +1,33 @@
+body {
+    background-color: lightblue;
+  }
+  
+  .card {
+    width: 450px;
+    height: 200px;
+    margin: 0 auto;
+  }
+  
+  .card-header {
+    text-align: center;
+    font-weight: bold;
+    font-size: 20px;
+  }
+  
+  #new-quote {
+    display: block;
+    width: 100%;
+    height: 40px;
+    margin: 0 auto;
+    position: relative;
+    bottom: 0;
+    background-color: darkblue;
+    color: white;
+    text-align: center;
+    font-weight: bold;
+  }
+  
+  #text, #author {
+    text-align: center;
+  }
+  
